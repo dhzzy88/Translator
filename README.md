@@ -9,8 +9,8 @@
 ```python
 
 #请将在百度翻译开发平台上申请的appid和key粘贴在下面的变量中
-appid = "20190116000257169"
-sercekey = "uOVITuz1JBG3b5iWpg_v"
+appid = "20190**********7169"
+sercekey = "uOV***********Wpg_v"
 #将需要翻译的文件路径赋值给path变量，也可以使用PaperTranslator的对象的Setpath方法设置路径
 path = "c:\\Users\\zhaozhiyi\\Desktop\\woo03.docx"
 
