@@ -17,7 +17,7 @@ path = "c:\\Users\\zhaozhiyi\\Desktop\\woo03.docx"
 ```
 
 <p>然后在cmd中使用
-```shell
+```
 python PaperTranslator.py
 ```
 #### 关于文件结构
