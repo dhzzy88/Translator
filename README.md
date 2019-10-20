@@ -25,6 +25,7 @@ python PaperTranslator.py
 <p> BaiduTranslation.py是百度翻译api的调用和包装
 <p> config.py配置文件
 <p> PaperTranslator.py 文献翻译主类以及实例化
+  
 ### TODO：
 1. 后续将加入其他翻译平台api（使用模块化，加入新平台比较容易）
 2. 需要在翻译字符中进行优化，如：不传标点符号给api，调用结束后重新将标点符
